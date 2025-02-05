@@ -33,7 +33,7 @@ public class CalcDays {
              case 11:
                    days = 30;
                    break;
-                default:
+                   default: System.out.println("invalid month");
                    break;   
                 
                 
