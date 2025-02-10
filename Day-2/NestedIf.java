@@ -2,22 +2,22 @@ public class NestedIf {
 
     public static void main(String args[]){
 
-        int  a = 70;
+        int  a = 10;
         boolean hasticket = true;
         if(hasticket==true){
 
             if(a>=60){
 
-                System.out.println("Eligible for Test");
+                System.out.println("Eligible for play");
             }
             else{
 
-                System.out.println("Pay fine then go for Test");
+                System.out.println("Pay fine then go for play");
             }
         }
         else{
  
-            System.out.println("Not eligible for test");
+            System.out.println("Not eligible for play");
         }
     }
     

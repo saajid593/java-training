@@ -2,8 +2,8 @@ public class Ifelse {
 
     public static void main(String args[]){
 
-        int a = 260;
-        int b = 120;
+        int a = 160;
+        int b = 320;
 
         if(a>b){
 

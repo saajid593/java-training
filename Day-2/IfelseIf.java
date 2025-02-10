@@ -2,7 +2,7 @@ public class IfelseIf {
 
     public static void main(String args []){
 
-       int a = 30, b = 50,c = 40;
+       int a = 30, b = 20,c = 40;
        
 
        if(a>b && a>c){
