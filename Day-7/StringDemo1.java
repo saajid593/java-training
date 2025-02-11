@@ -1,5 +1,3 @@
-import javax.swing.plaf.synth.SynthGraphicsUtils;
-
 public class StringDemo1 {
 
     public static void main(String[] args) {

@@ -3,7 +3,7 @@ public class StringDemo5 {
         String s1= "silence please! dont talk";
         //endsWith method
 
-        System.out.println(s1.endsWith("k"));
+        System.out.println(s1.endsWith("talk"));
     
-}
+    }
 }

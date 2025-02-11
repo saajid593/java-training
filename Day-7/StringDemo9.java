@@ -7,7 +7,7 @@ public class StringDemo9 {
         //remove spaces from start and end
 
         String s2="abc";
-        System.out.println(s2.repeat(3));
+        System.out.println(s2.repeat(6));
         //abcabcabc
     }
     
