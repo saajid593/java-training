@@ -3,11 +3,11 @@ package tamilnadu.chennai;
 public class College {
 
     static String Clgname="DACE";
-    int fees=200000;
+    //int fees=200000;
     
     public static void main(String[] args) {
-        display();
         College clg = new College();
+        display();
         clg.studying();
         clg.recruit();
         clg.write();
@@ -35,7 +35,6 @@ public class College {
 
 
     }
-
     private void semesterpaper()
     {
         System.out.println("this is top secret");

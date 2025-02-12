@@ -6,11 +6,10 @@ public class Test {
         t.display();
         Test t1=new Test();
         t1.display1();
-
     }
     void display()
     {
-        a="boy";
+        System.out.println("AssalamuAlaikum");
     }
     void display1()
     {
