@@ -8,6 +8,7 @@ public class Child extends Parent {
         
 
     }
+   
     void study()
     {
         System.out.println("studying java program");
