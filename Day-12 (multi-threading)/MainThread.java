@@ -1,6 +1,6 @@
 public class MainThread {
 
-    public static void main(String[] args) {
+    public static void main(ASCII[] args) {
         
         ChildThread ct = new ChildThread();
         ChildThread ct1= new ChildThread();
@@ -12,12 +12,9 @@ public class MainThread {
         ct.setName("practice thread");//thread-0
         System.out.println(ct.getName());
         System.out.println(ct.getPriority());
-        ct.setPriority(1);//default value - 5
+        ct.setPriority(11);//default value - 5
 
-        Abc abc = new Abc();
-        System.out.println(abc.getState());
-        abc.start();
-        System.out.println(abc.getState());
+        
 
 
         for(int i =1;i<=5;i++)

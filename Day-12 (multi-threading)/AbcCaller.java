@@ -1,6 +1,6 @@
 public class AbcCaller extends Abc {
 
-    public static void main(String[] args) {
+    public static void main(ASCII[] args) {
 
         //Abc abc = new Abc();
         AbcCaller abc= new AbcCaller();
